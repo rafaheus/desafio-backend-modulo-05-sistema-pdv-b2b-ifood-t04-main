@@ -1,0 +1,35 @@
+{
+  "name": "revisao-m04-ifood-t04",
+  "version": "1.0.0",
+  "description": "Criar uma API RESTfull para um site que permita a pessoa digitar o que ela gosta e para onde ela pretende ir e o site retorne um roteiro de viagem.",
+  "main": "./src/server.js",
+  "scripts": {
+    "dev": "nodemon main",
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.427.0",
+    "aws-sdk": "^2.1472.0",
+    "aws-sdk-js-codemod": "^0.18.3",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "handlebars": "^4.7.8",
+    "joi": "^17.10.2",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^2.5.1",
+    "multer": "^1.4.5-lts.1",
+    "node-mailjet": "^6.0.4",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "eslint-config-prettier": "^9.0.0",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.3"
+  }
+}
