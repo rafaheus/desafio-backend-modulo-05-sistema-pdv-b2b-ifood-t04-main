@@ -1,7 +1,7 @@
 # Equipe 10
 
 - Leonardo Yan de Sousa Jaques
-- Rafael Gornes Heuseler
+- Rafael Gomes Heuseler
 - Lucas Henrique Meira de Souza
 - Stefson Romário Sampaio Magalhães
 - Milton de Vargas Júnior(Anônimo)
